@@ -1,0 +1,2 @@
+# one book per line: slug  EPUB-url   (push a change to this file and the workflow narrates it)
+poggio https://www.gutenberg.org/ebooks/72437.epub3.images
